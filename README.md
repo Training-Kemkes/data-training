@@ -1,10 +1,13 @@
 # data anak training kemenkes with Michael
 
+`MENTOR`
+1. Michael - Frontend App System PeLi
+
 `FRONTEND`
-1. Silvia - `Website`
+1. Silvia - Web
 
-`Design`
-1. Tifanny - `Application`
+`DESIGN`
+1. Tifanny - App
 
-`Backend`
-1. Steve - `Website`
+`BACKEND`
+1. Steve - Web
